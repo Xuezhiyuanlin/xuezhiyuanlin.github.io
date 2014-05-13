@@ -1,1 +1,15 @@
-﻿baseurl:/jekyll_demo
+markdown: rdiscount
+permalink: /:title/
+url: http://xuezhiyuanlin.github.io
+name: xuezhiyuanlin
+author: xuezhiyuanlin
+qq: 
+email: 
+duoshuo: 
+cnzz: 
+weibo: 
+github: Yonsm
+pygments: true
+safe: true
+paginate: 20
+about: ""
