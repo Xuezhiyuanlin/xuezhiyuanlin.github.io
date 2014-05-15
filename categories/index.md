@@ -1,6 +1,7 @@
 ---
 title: 分类
 layout: page
+comments: yes
 ---
 
 <div id='tag_cloud'>

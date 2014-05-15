@@ -5,11 +5,11 @@ name: xuezhiyuanlin
 author: xuezhiyuanlin
 qq: 317789135 
 email: xuezhiyuanlin@163.com
-duoshuo: 
+duoshuo: 雪之苑林001
 cnzz: 
 weibo: 2418621275
 github: xuezhiyuanlin
-pygments: true
+# pygments: true
 safe: true
 paginate: 20
 about: "这是本人的第一个博客，大家来捧场！！！"
