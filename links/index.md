@@ -1,7 +1,7 @@
 ---
 title: 链接
 layout: page
-comments: yes
+comments: no
 ---
 
 ### 友情链接
