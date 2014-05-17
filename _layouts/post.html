@@ -35,7 +35,6 @@ layout: default
 	<a {% if page.next %} href="{{ page.next.url }}" class="pageNav"{% endif %} {% unless page.next %} class="pageNavInvalid" {% endunless %} >下一篇</a>
 </span>
 </section>
-{% include comments.md %}
 
 <!-- JiaThis Button BEGIN -->
 <div class="jiathis_style">
@@ -52,6 +51,8 @@ var jiathis_config = {data_track_clickback:'true'};
 </script>
 <script type="text/javascript" src="http://v3.jiathis.com/code/jia.js?uid=1400122824168372" charset="utf-8"></script>
 <!-- JiaThis Button END -->
+
+{% include comments.md %}
 
 
 
