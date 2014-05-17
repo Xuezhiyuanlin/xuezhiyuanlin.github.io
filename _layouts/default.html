@@ -7,15 +7,17 @@
     <link rel="shortcut icon" href="/assets/logo.jpg"></link>
     <link href="/feed/" rel="alternate" title="{{ site.author }}" type="application/atom+xml" />
     <link rel="stylesheet" href="/media/css/style.css" />
-    <link rel="stylesheet" href="/media/css/highlight.css" />
-    <script type="text/javascript" src="/media/js/jquery-1.7.1.min.js"></script>
+    <!--<link rel="stylesheet" href="/media/css/highlight.css" />  -->
+    <!--<script type="text/javascript" src="/media/js/jquery-1.7.1.min.js"></script>-->
+    <link rel="stylesheet" href="/media/css/atelier-forest.dark.css">
+    <script type="text/javascript" src="/media/js/highlight.pack.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
   </head>
   <body>  
     <div id="time"></div>  
-  
       <script type="text/javascript">  
         change();  
-      function change()  
+        function change()  
         {  
           var today;  
           today = new Date();  
@@ -23,9 +25,8 @@
           document.getElementById("time").innerHTML = timeString;  
          setTimeout("change();", 1000);  
         }  
-</script>  
-  
-</body>
+      </script>  
+    </body>
   <body>
     <div id="container">
       <div id="main" role="main">
