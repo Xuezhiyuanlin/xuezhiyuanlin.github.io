@@ -5,7 +5,6 @@ title: Excel 筛选删除
 thread: 143
 categories: 技术
 ---
-
 步骤如下
 >首先我的Office是2007版本的，打开你要筛选删除的Excel表，以下图为例：
 > 1.用鼠标点到你要筛选的那一列其中你要选中的例如本例中的“李四”，再点击开始栏里边即Excel表右上角的*排序和筛选*图标并选中其中的*筛选* ![Step 1](/assets/Delete_1.jpg)
