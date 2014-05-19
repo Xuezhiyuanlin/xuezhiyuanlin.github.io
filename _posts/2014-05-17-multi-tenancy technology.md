@@ -2,7 +2,7 @@
 date: 2014-05-17 20:25:22+00:00
 layout: post
 title: 多租户架构技术
-<!-- thread: 143？ -->
+thread: 143
 categories: 技术
 ---
 
